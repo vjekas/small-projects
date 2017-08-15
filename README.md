@@ -1,1 +1,1 @@
-# small-projects - here you can find my final exam project from FTN Informatika - Java web development
+# Java web development - here you can find my final exam project from FTN Informatika. This project is finished in three hours ( exam time ). Project name is prodavnicaPiva.zip - feel free to download the project.
